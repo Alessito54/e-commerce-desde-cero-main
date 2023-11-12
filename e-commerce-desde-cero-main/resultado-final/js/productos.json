@@ -1,0 +1,272 @@
+[
+    {
+        "id": "PC2",
+        "titulo": "PRIDE GAMING WHALE <br> Procesador: Ryzen 5 <br>Espacio: 480gb SSD <br>Ram: 16GB",
+        "imagen": "./img/Escritorio/pc2.jpg",
+        "categoria": {
+            "nombre": "PC",
+            "id": "PC"
+        },
+        "precio": 5699.00
+    },
+    {
+        "id": "PC3",
+        "titulo": "GAMING FERRET<br> Procesador: Ryzen 5 <br>Espacio: 500gb SSD <br>Ram: 16GB",
+        "imagen": "./img/Escritorio/pc3.jpg",
+        "categoria": {
+            "nombre": "PC",
+            "id": "PC"
+        },
+        "precio": 10999.00
+    },
+    {
+        "id": "PC4",
+        "titulo": "PRIDE GAMING <br> Procesador: Intel i7 <br>Espacio: 1TB HDD <br>Ram: 32GB",
+        "imagen": "./img/Escritorio/pc4.jpg",
+        "categoria": {
+            "nombre": "PC",
+            "id": "PC"
+        },
+        "precio": 14999.00
+    },
+    {
+        "id": "PC5",
+        "titulo": "PRIDE GAMING WHALE <br> Procesador: Ryzen 5 <br>Espacio: 480gb SSD <br>Ram: 16GB",
+        "imagen": "./img/Escritorio/pc5.jpg",
+        "categoria": {
+            "nombre": "PC",
+            "id": "PC"
+        },
+        "precio": 5699.00
+    },
+    {
+        "id": "PC6",
+        "titulo": "PRIDE GAMING REINDEER <br> Procesador: Intel i9 <br>Espacio: 1TB SSD <br>Ram: 64GB",
+        "imagen": "./img/Escritorio/pc6.jpg",
+        "categoria": {
+            "nombre": "PC",
+            "id": "PC"
+        },
+        "precio": 12999.00
+    },
+    {
+        "id": "PC7",
+        "titulo": "PC KPC Atom <br> Procesador: Intel Celeron <br>Espacio: 240GB SSD <br>Ram: 8GB",
+        "imagen": "./img/Escritorio/pc7.jpg",
+        "categoria": {
+            "nombre": "PC",
+            "id": "PC"
+        },
+        "precio": 2999.00
+    },
+    {
+        "id": "PC8",
+        "titulo": "PRIDE GAMING <br> Procesador: Ryzen 7 <br>Espacio: 1TB SSD <br>Ram: 32GB",
+        "imagen": "./img/Escritorio/pc8.jpg",
+        "categoria": {
+            "nombre": "PC",
+            "id": "PC"
+        },
+        "precio": 13999.00
+    },
+    {
+        "id": "PC9",
+        "titulo": "PRIDE PANTHERA <br> Procesador: Intel i5 <br>Espacio: 500GB SSD <br>Ram: 16GB",
+        "imagen": "./img/Escritorio/pc9.jpg",
+        "categoria": {
+            "nombre": "PC",
+            "id": "PC"
+        },
+        "precio": 5999.00
+    },
+    {
+        "id": "PC10",
+        "titulo": "PC NUC Celeron J4005 <br> Procesador: Intel Celeron <br>Espacio: 120GB SSD <br>Ram: 4GB",
+        "imagen": "./img/Escritorio/pc10.jpg",
+        "categoria": {
+            "nombre": "PC",
+            "id": "PC"
+        },
+        "precio": 2999.00
+    },
+    {
+        "id": "PC11",
+        "titulo": "GAMING DPC POLAR <br> Procesador: Ryzen 9 <br>Espacio: 2TB HDD <br>Ram: 64GB",
+        "imagen": "./img/Escritorio/pc11.jpg",
+        "categoria": {
+            "nombre": "PC",
+            "id": "PC"
+        },
+        "precio": 17999.00
+    },
+    {
+        "id": "PC12",
+        "titulo": "PRIDE GAMING PARROT <br> Procesador: Ryzen 5 <br>Espacio: 1TB SSD <br>Ram: 32GB",
+        "imagen": "./img/Escritorio/pc12.jpg",
+        "categoria": {
+            "nombre": "PC",
+            "id": "PC"
+        },
+        "precio": 6799.00
+    },
+    {
+        "id": "PC13",
+        "titulo": "PC XMT <br> Procesador: Intel i5 <br>Espacio: 500GB SSD <br>Ram: 16GB",
+        "imagen": "./img/Escritorio/pc14.jpg",
+        "categoria": {
+            "nombre": "PC",
+            "id": "PC"
+        },
+        "precio": 4599.00
+    },
+    {
+        "id": "lap1",
+        "titulo": "Laptop Bravo 15 C7VE <br> Procesador: AMD Ryzen 7 <br>Espacio: 1TB SSD <br>Ram: 16GB",
+        "imagen": "./img/lap/lap1.jpg",
+        "categoria": {
+            "nombre": "lap",
+            "id": "LAP"
+        },
+        "precio": 18699.00
+    },
+    {
+        "id": "lap2",
+        "titulo": "Laptop Elite x2 G8 <br> Procesador: Intel i7 <br>Espacio: 512GB SSD <br>Ram: 16GB",
+        "imagen": "./img/lap/lap2.jpg",
+        "categoria": {
+            "nombre": "lap",
+            "id": "LAP"
+        },
+        "precio": 18999.00
+    },
+    {
+        "id": "lap3",
+        "titulo": "Laptop 240 G7 Black <br> Procesador: AMD Ryzen 5 <br>Espacio: 256GB SSD <br>Ram: 8GB",
+        "imagen": "./img/lap/lap3.jpg",
+        "categoria": {
+            "nombre": "lap",
+            "id": "LAP"
+        },
+        "precio": 7999.00
+    },
+    {
+        "id": "lap4",
+        "titulo": "Laptop Inspiron 3501 <br> Procesador: Intel i5 <br>Espacio: 1TB HDD <br>Ram: 16GB",
+        "imagen": "./img/lap/lap4.jpg",
+        "categoria": {
+            "nombre": "lap",
+            "id": "LAP"
+        },
+        "precio": 19999.00
+    },
+    {
+        "id": "lap5",
+        "titulo": "Laptop Inspiron 3511 <br> Procesador: AMD Ryzen 7 <br>Espacio: 512GB SSD <br>Ram: 16GB",
+        "imagen": "./img/lap/lap5.jpg",
+        "categoria": {
+            "nombre": "lap",
+            "id": "LAP"
+        },
+        "precio": 13999.00
+    },
+    {
+        "id": "lap6",
+        "titulo": "Laptop U4 UD <br> Procesador: Intel i7 <br>Espacio: 1TB SSD <br>Ram: 32GB",
+        "imagen": "./img/lap/lap6.jpg",
+        "categoria": {
+            "nombre": "lap",
+            "id": "LAP"
+        },
+        "precio": 19999.00
+    },
+    {
+        "id": "lap7",
+        "titulo": "Laptop INSPIRON 13 <br> Procesador: AMD Ryzen 5 <br>Espacio: 256GB SSD <br>Ram: 8GB",
+        "imagen": "./img/lap/lap7.jpg",
+        "categoria": {
+            "nombre": "lap",
+            "id": "LAP"
+        },
+        "precio": 18999.00
+    },
+    {
+        "id": "lap8",
+        "titulo": "Laptop VivoBook F415E <br> Procesador: Intel i5 <br>Espacio: 512GB SSD <br>Ram: 8GB",
+        "imagen": "./img/lap/lap8.jpg",
+        "categoria": {
+            "nombre": "lap",
+            "id": "LAP"
+        },
+        "precio": 7599.00
+    },
+    {
+        "id": "lap9",
+        "titulo": "Laptop ExpertBook B5 <br> Procesador: AMD Ryzen 9 <br>Espacio: 1TB SSD <br>Ram: 32GB",
+        "imagen": "./img/lap/lap9.jpg",
+        "categoria": {
+            "nombre": "lap",
+            "id": "LAP"
+        },
+        "precio": 17999.00
+    },
+    {
+        "id": "lap10",
+        "titulo": "LAPTOP Vivobook 16 <br> Procesador: Intel i7 <br>Espacio: 512GB SSD <br>Ram: 16GB",
+        "imagen": "./img/lap/lap10.jpg",
+        "categoria": {
+            "nombre": "lap",
+            "id": "LAP"
+        },
+        "precio": 21199.00
+    },
+    {
+        "id": "G1",
+        "titulo": "RTX4090 <br> VRAM: 16GB GDDR6X",
+        "imagen": "./img/grafica/G1.jpg",
+        "categoria": {
+            "nombre": "G",
+            "id": "G"
+        },
+        "precio": 50000
+    },
+    {
+        "id": "G2",
+        "titulo": "GTX3090 <br> VRAM: 12GB GDDR6X",
+        "imagen": "./img/grafica/G2.jpg",
+        "categoria": {
+            "nombre": "G",
+            "id": "G"
+        },
+        "precio": 40000
+    },
+    {
+        "id": "G3",
+        "titulo": "RTX3080 <br> VRAM: 10GB GDDR6X",
+        "imagen": "./img/grafica/G3.jpg",
+        "categoria": {
+            "nombre": "G",
+            "id": "G"
+        },
+        "precio": 35000
+    },
+    {
+        "id": "G4",
+        "titulo": "RTX3070 <br> VRAM: 8GB GDDR6",
+        "imagen": "./img/grafica/G4.jpg",
+        "categoria": {
+            "nombre": "G",
+            "id": "G"
+        },
+        "precio": 30000
+    },
+    {
+        "id": "G5",
+        "titulo": "RTX3060 <br> VRAM: 6GB GDDR6",
+        "imagen": "./img/grafica/G5.jpg",
+        "categoria": {
+            "nombre": "G",
+            "id": "G"
+        },
+        "precio": 25000
+    }
+]
